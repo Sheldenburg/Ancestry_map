@@ -112,6 +112,6 @@ map.keep_in_front(label)
 folium_static(map)
 
 # st.text('Note: This chart is based on 2016 Census data in Australia. It is for research and entertaining purpose only. The author do NOT guarantee the accuracy of the results')
-st.caption('This chart is based on 2016 Census data in Australia. It is for research and entertaining purpose only. The author do NOT guarantee the accuracy of the results.')
+st.write('This chart is based on 2016 Census data in Australia. It is for research and entertaining purpose only. The author do NOT guarantee the accuracy of the results.')
 
 st.write("Contact the author: info@moneyrecreation.com")
