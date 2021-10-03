@@ -20,13 +20,13 @@ else:
     key = select_state.lower()+'_loca_2'
 
 geojson_links = {
-'NSW':r'GeoJson-Data-master\suburb-2-nsw.geojson'
-,'QLD':r'GeoJson-Data-master\suburb-2-qld.geojson'
-,'VIC':r'GeoJson-Data-master\suburb-2-vic.geojson'
-,'WA':r'GeoJson-Data-master\suburb-2-wa.geojson'
-,'SA':r'GeoJson-Data-master\suburb-2-sa.geojson'
-,'TAS':r'GeoJson-Data-master\suburb-2-tas.geojson'
-,'ACT':r'GeoJson-Data-master\suburb-2-act.geojson'
+'NSW':r'suburb-2-nsw.geojson'
+,'QLD':r'suburb-2-qld.geojson'
+,'VIC':r'suburb-2-vic.geojson'
+,'WA':r'suburb-2-wa.geojson'
+,'SA':r'suburb-2-sa.geojson'
+,'TAS':r'suburb-2-tas.geojson'
+,'ACT':r'suburb-2-act.geojson'
 }
 
 centre = {
