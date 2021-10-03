@@ -1,7 +1,7 @@
 import pandas as pd # library for data analsysis
 import json # library to handle JSON files
 import geojson
-from geopy.geocoders import Nominatim # convert an address into latitude and longitude values
+# from geopy.geocoders import Nominatim # convert an address into latitude and longitude values
 import requests # library to handle requests
 import numpy as np
 import folium # map rendering library
